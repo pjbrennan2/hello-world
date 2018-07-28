@@ -6,6 +6,7 @@ Skilled bioinformatics analyst with history researching, investigating, and mani
 ## Experience
 ### Nationwide Children's Hospital 
 Bioinformatics Analyst
+
 Columbus, Ohio  6/17 - Present
 
 - Lead analyst for over 50 WES & WGS cancer cases.
@@ -15,6 +16,7 @@ Columbus, Ohio  6/17 - Present
 
 ### University of Toledo
 Graduate Assistant
+
 Toledo, Ohio  8/15 - 8-17
 
 - Authored Perl and Python programs to organize and manipulate genomic data.
