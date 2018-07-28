@@ -1,6 +1,6 @@
 # CV
 
-## Qualifications Profile:
+### Qualifications Profile
 Skilled bioinformatics analyst with history researching, investigating, and manipulating complex biological data. Passionate about the natural world and how living systems organize.
 
 ## Experience
