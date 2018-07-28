@@ -15,7 +15,7 @@ Columbus, Ohio  6/17 - Present
 
 ### University of Toledo
 Graduate Assistant  
-Toledo, Ohio  8/15 - 8-17
+Toledo, Ohio  8/15 - 8/17
 
 - Authored Perl and Python programs to organize and manipulate genomic data.
 - Created a program pipeline to determine human ancestry by comparing an individual’s genome with 2504 genomes from across the world.
