@@ -1,4 +1,18 @@
-## Welcome to GitHub Pages
+# CV
+
+## Qualifications Profile:
+Skilled bioinformatics analyst with history researching, investigating, and manipulating complex biological data. Passionate about the natural world and how living systems organize.
+
+## Experience
+### Nationwide Children's Hospital 
+Columbus, Ohio  6/17 - Present
+
+- Lead analyst for over 50 WES & WGS cancer cases.
+- Worked with a team to develop and integrate custom QC metrics into existing NGS pipeline.
+- Conducted analysis for our ongoing ‘rare disease’ research project which has sequenced over 20 family trios.
+- Developed a clinical pipeline for detecting Lynch Syndrome among endometrial cancer patients using NGS data.
+
+
 
 You can use the [editor on GitHub](https://github.com/pjbrennan2/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
